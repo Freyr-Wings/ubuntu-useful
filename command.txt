@@ -1,0 +1,5 @@
+# check port
+netstat -tunlp
+
+# check disk
+df -hl
