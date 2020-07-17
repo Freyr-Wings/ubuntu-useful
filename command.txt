@@ -3,3 +3,7 @@ netstat -tunlp
 
 # check disk
 df -hl
+
+# check systemctl app (e.g. nginx)
+sudo systemctl status nginx
+
